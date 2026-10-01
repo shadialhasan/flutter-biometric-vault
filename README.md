@@ -3,10 +3,10 @@
 > **Topics:** `flutter` `biometrics` `face-id` `fingerprint` `keychain` `keystore` `mobile-security` `dart`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/flutter-biometric-vault/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/flutter-biometric-vault/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Security: Biometrics](https://img.shields.io/badge/Auth-BiometricPrompt%20%7C%20FaceID-brightgreen.svg)](https://github.com/MobileConduit)
-[![CI Pipeline](https://github.com/MobileConduit/flutter-biometric-vault/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/flutter-biometric-vault/actions)
+[![Security: Biometrics](https://img.shields.io/badge/Auth-BiometricPrompt%20%7C%20FaceID-brightgreen.svg)](https://github.com/shadialhasan)
+[![CI Pipeline](https://github.com/shadialhasan/flutter-biometric-vault/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/flutter-biometric-vault/actions)
 
 Biometric hardware-backed secure storage wrapper for Flutter, integrating Android Keystore and iOS Keychain encryption with Face ID / Fingerprint gating.
 
@@ -36,7 +36,7 @@ sequenceDiagram
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/MobileConduit/flutter-biometric-vault.git
+git clone https://github.com/shadialhasan/flutter-biometric-vault.git
 cd flutter-biometric-vault
 dart pub get
 ```
@@ -71,7 +71,7 @@ dart test
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
