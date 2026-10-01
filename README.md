@@ -1,5 +1,6 @@
 # 🛡️ flutter-biometric-vault
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/flutter-biometric-vault/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Security: Biometrics](https://img.shields.io/badge/Auth-BiometricPrompt%20%7C%20FaceID-brightgreen.svg)](https://github.com/MobileConduit)
 [![CI Pipeline](https://github.com/MobileConduit/flutter-biometric-vault/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/flutter-biometric-vault/actions)
@@ -27,6 +28,16 @@ sequenceDiagram
     Vault-->>Flutter: Authenticated Action Granted
 ```
 
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/flutter-biometric-vault.git
+cd flutter-biometric-vault
+dart pub get
+```
+
 ## 🚀 Usage
 
 ```dart
@@ -41,6 +52,14 @@ if (authenticated) {
 ```
 
 ---
+
+---
+
+## 🧪 Running Automated Tests
+
+```bash
+dart test
+```
 
 ## 👤 Author & Maintainer
 
