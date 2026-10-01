@@ -1,5 +1,8 @@
 # 🛡️ flutter-biometric-vault
 
+> **Topics:** `flutter` `biometrics` `face-id` `fingerprint` `keychain` `keystore` `mobile-security` `dart`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/flutter-biometric-vault/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Security: Biometrics](https://img.shields.io/badge/Auth-BiometricPrompt%20%7C%20FaceID-brightgreen.svg)](https://github.com/MobileConduit)

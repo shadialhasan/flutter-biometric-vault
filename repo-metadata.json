@@ -1,0 +1,13 @@
+{
+  "description": "Hardware-backed biometric authentication (Fingerprint & Face ID) and encrypted keychain storage for Flutter",
+  "topics": [
+    "flutter",
+    "biometrics",
+    "face-id",
+    "fingerprint",
+    "keychain",
+    "keystore",
+    "mobile-security",
+    "dart"
+  ]
+}
